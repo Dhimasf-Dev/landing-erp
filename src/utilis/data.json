@@ -1,0 +1,61 @@
+{
+    "method": [
+      {
+        "id": 1,
+        "title": "Research",
+        "image": "/images/research-image.svg"
+      },
+      {
+        "id": 2,
+        "title": "Execution",
+        "image": "/images/execution-image.svg"
+      },
+      {
+        "id": 3,
+        "title": "Finalization",
+        "image": "/images/finalization-image.svg"
+      }
+    ],
+    "products": [
+        {
+          "id": 1,
+          "title": "Basic",
+          "pricing": "Rp.3.000.000",
+          "description": [
+            "Mencatat barang masuk",
+            "Mencatat barang keluar",
+            "Mencatat hasil keuntungan"
+          ]
+        },
+        {
+            "id": 2,
+            "title": "Business",
+            "pricing": "Rp.5.000.000",
+            "description": [
+              "Mencatat barang masuk dan keluar",
+              "Mencatat keuntungan",
+              "Dapat menganalisa hasil penjualan dengan CHART",
+              "Support 7x24 Jam"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Entrepreneur",
+            "pricing": "Rp.10.000.000",
+            "description": [
+              "Mencatat barang masuk dan keluar",
+              "Mencatat keuntungan",
+              "Dapat menganalisa hasil penjualan dengan CHART",
+              "Support 7x24 Jam",
+              "Export data ke Excel",
+              "AI Prediksi penghasilan"
+            ]
+        }
+    ],
+    "contacts": {
+        "name": "Dhimas Fadhlirrahman",
+        "email": "dhimasf98@gmail.com",
+        "phone": "+62 85156338334"
+    }
+  }
+  

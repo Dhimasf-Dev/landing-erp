@@ -1,0 +1,26 @@
+.container-login {
+    background: linear-gradient(to right, #1a73e8, #d58aff);
+    align-items: center;
+    height: 100vh;
+}
+
+.container-card-login {
+   background: white;
+   width: 400px;
+   height: 400px;
+}
+
+.input-section {
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+}
+
+.btn-login {
+    background: #1a73e8;
+    width: 92%;
+    margin-top: 50px;
+    color: white;
+    font-size: 14px;
+}
+

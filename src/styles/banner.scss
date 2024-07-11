@@ -1,0 +1,50 @@
+.container-banner {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+
+  .banner-title {
+    margin: 50px 150px 0 0;
+    max-width: 400px;
+    text-align: center;
+  }
+
+}
+
+.banner-desc {
+  margin-top: 50px;
+  font-style: italic;
+}
+
+.img-banner {
+  width: 150px;
+  height: 150px;
+  padding-left: 50px;
+}
+
+.shape-2 {
+  position: relative;
+  bottom: 0;
+  height: 200px;
+  background: linear-gradient(to right, #1a73e8, #d58aff);
+  clip-path: polygon(62% 48%, 100% 24%, 100% 100%, 33% 100%, 49% 78%);
+}
+
+
+@media only screen and (max-width: 600px) {
+  .banner-title {
+    padding-left: 100px;
+  }
+
+  .banner-desc {
+    padding-left: 50px;
+  }
+
+  .img-banner {
+    padding-left: 130px;
+  }
+}
+
+
+
+  
